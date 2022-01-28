@@ -1,0 +1,9 @@
+rootProject.name = "Mall"
+include ':App'
+include ':BaseLibrary'
+include ':Provider'
+include ':UserCenter'
+include ':MessageCenter'
+include ':GoodsCenter'
+include ':OrderCenter'
+include ':PayCenter'
